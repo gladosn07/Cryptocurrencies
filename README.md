@@ -1,8 +1,8 @@
 ### 🚩 Cryptocurrencies
 
-## 🛠 Project link
+### 🛠 Project link
 
-### https://cryptomod.netlify.app/
+#### https://cryptomod.netlify.app/
 
 ## 🚀 Rodando o projeto
 
